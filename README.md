@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @honeyprofit
+# 👋 Hi, I’m Younghyun
 
 Welcome to my GitHub! I'm a passionate **UX/UI Designer** and **Front-End Developer** with over 10 years of experience in creating innovative, user-centered designs. My goal is to become a leading expert in both design and front-end development, delivering solutions that are as technically robust as they are visually compelling.
 
