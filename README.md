@@ -35,7 +35,6 @@ My experience in end-to-end project management allows me to effectively translat
 
 ## 📫 How to reach me ...
 - **Email**: honeyprofit@naver.com
-- **Portfolio**: [Portfolio Website](https://honeyprofit.github.io/seo)
 
 ## ⚡ Fun fact: ...
 I’ve lived and worked in four different countries, which has given me a rich perspective on design. Outside of work, I’m an avid traveler and a tech enthusiast who loves to stay ahead of the curve.
